@@ -30,11 +30,11 @@ namespace IfAndElseNesting
             }
             else if(y == 30)
             {
-                Console.WriteLine("Vastus on 30. Kolmas tingimus vastab tõele");
+                Console.WriteLine("Vastus on 30. Kolmas tingimus vastab tõele ");
             }
             else
             {
-                Console.WriteLine("Mingi kahtlane number");
+                Console.WriteLine("See ei ole õige number!");
             }
         }
     }
