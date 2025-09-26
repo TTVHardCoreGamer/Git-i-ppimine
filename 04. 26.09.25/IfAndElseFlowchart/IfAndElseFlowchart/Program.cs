@@ -10,7 +10,7 @@
 
             if (muutuja == "")
             {
-                Console.WriteLine("Ei sisestanud nime");
+                Console.WriteLine("Miks sa ei sisestanud enda nime!");
             }
             else
             {
