@@ -11,7 +11,7 @@
             //neljas jalanumbri 45 - 48 (siin teeb aruvti häält beep)
             //Kindlasti tuleb ära lahendada olukord,
             //kus kasutatakse mõnda teist jalanumbrit.
-            Console.WriteLine("Sisesta jalanumber!");
+            Console.WriteLine("Sisesta jalanumber palun!");
 
             string foot = Console.ReadLine();
             int footNumber = int.Parse(foot);
