@@ -20,7 +20,7 @@
             //kui ei sisestatud numbri väärtust, siis on teade: Ei sisestanud vanust
             else
             {
-                Console.WriteLine("Ei sisestanud vanust");
+                Console.WriteLine("Ei sisestanud vanust!!!");
             }
         }
     }
