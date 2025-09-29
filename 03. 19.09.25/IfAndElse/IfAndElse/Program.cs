@@ -34,7 +34,7 @@
             }
             else
             {
-                Console.WriteLine("Sisestasid suvalise värvi");
+                Console.WriteLine("Sisestasid vale värvi!");
             }
         }
     }
